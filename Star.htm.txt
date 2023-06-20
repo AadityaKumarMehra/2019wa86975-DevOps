@@ -1,3 +1,15 @@
 <span style="font-size:300%;color:yellow;">&starf;</span>
 <span style="font-size:500%;color:red;">&star;</span>
-<span style="font-size:500%;color:blue;">&bigstar;</span>
+<span style="font-size:500%;color:blue;">&bigstar;</span>For DevOps CSIW ZG515 Tasks Added below lines from Git bash Task1 to use git for Version Control using GIT Creating repositories in GIT, Exercises to demonstrate the use of GIT operations and commands (Push, pull, clone etc.,) Creating branches and merging branches using GIT
+
+ThanAaditya Kmar Mehra[ra[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[A[C[C[C[D[D[D[D[D[D[D[D[D[D[[3~[3~[[B[3~[3~[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[
+[B[B
+[A[A[A[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+
+
+
+
+
+
+
